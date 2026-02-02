@@ -1,57 +1,88 @@
-## 👋 Hi, I'm Emad Amanifar
+<div align="center">
 
-🧠 AI & Computer Vision Engineer with hands-on experience in building **real-world vision systems**
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/ai.gif" width="300"/>
 
-I focus on designing, training, and deploying deep learning models for visual understanding tasks, with an emphasis on clean pipelines and practical results.
+# Hi, I'm Emad Amanifar 👋  
+### AI & Computer Vision Engineer
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="500"/>
+</div>
 
-🔹 **Face Emotion Recognition**  
-Deep learning–based facial emotion classification system using CNN architectures and image preprocessing pipelines.  
+## 🧠 About Me
+- 🔍 Specialized in **Computer Vision & Deep Learning**
+- 🧪 Hands-on experience building **real AI systems**, not just experiments
+- 🧠 Focused on **visual understanding**, multimodal models, and applied ML
+- 🐍 Python-first engineer with strong ML foundations
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/vision.gif" width="400"/>
+</div>
+
+### 🔹 Face Emotion Recognition  
+Deep CNN-based facial emotion classification with full preprocessing & training pipeline  
 🔗 https://github.com/ema-item/face-emotion-recognition
 
-🔹 **Iranian Car Classification**  
-Image classification model for identifying Iranian car brands and models, including dataset preparation, training, and evaluation.  
+### 🔹 Iranian Car Classification  
+Image classification system for Iranian car brands and models  
 🔗 https://github.com/ema-item/Iranian-car-classification
 
-🔹 **Fashion Search with CLIP**  
-Multimodal image–text retrieval system using OpenAI CLIP for semantic fashion search.  
+### 🔹 Fashion Search with CLIP  
+Multimodal image–text search engine using CLIP embeddings  
 🔗 https://github.com/ema-item/fashion-search-with-clip
 
 ---
 
-### 🛠 Technical Experience
+## 🛠 Tech Stack
 
-**Programming**
-- Python (advanced)
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/tools.gif" width="400"/>
+</div>
 
-**Computer Vision & Deep Learning**
+**Languages**
+- Python
+
+**AI / CV**
 - PyTorch, TensorFlow
 - OpenCV
 - CNNs, Transfer Learning
-- Image Classification & Feature Extraction
-- Multimodal Models (CLIP)
+- CLIP (Vision–Language Models)
 
-**Data & ML Tools**
+**Data & ML**
 - NumPy, Pandas
-- Matplotlib, Seaborn
 - Scikit-learn
+- Matplotlib
 
-**Workflow & Environment**
+**Workflow**
 - Linux
 - Git & GitHub
-- Model training, evaluation, and experimentation
 
 ---
 
-### 📌 Current Interests
-- Advanced Computer Vision systems  
-- Vision–Language models  
-- Applied AI for real-world products  
+## 📊 GitHub Stats
 
----
+<div align="center">
 
-### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ema-item&show_icons=true&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/thanks.gif" width="200"/>
+</div>
+
+<div align="center">
+
+⭐ *Building AI systems that understand the world, not just datasets.*
+
+</div>
