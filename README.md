@@ -1,12 +1,10 @@
-<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/bb03892b-b680-4458-a93e-6ad9613bfd0d" /><div align="center">
-
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/ai.gif" width="300"/>
 
 # Hi, I'm Emad Amanifar 👋  
 ### AI & Computer Vision Engineer
 
 </div>
-![alt text]([IMAGE_URL](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAwMTkzNDcsIm5iZiI6MTc3MDAxOTA0NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjAyVDA3NTcyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwODNkYzQ5MjYyMTU3NjQxMWM1NWNlYTA3ZDAzMzZmMDUzNzkwNWVlMjM0OGI0ODkxYzRjMDBhN2ZhNGExMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bdorvxToxT1s1IoaWmNV7cUkvPx_z7mmyza8ILa864M))
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/bb03892b-b680-4458-a93e-6ad9613bfd0d" /><div align="center">
 ---
 
 <div align="center">
