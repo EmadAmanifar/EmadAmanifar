@@ -4,7 +4,6 @@
 ### AI & Computer Vision Engineer
 
 </div>
-<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/bb03892b-b680-4458-a93e-6ad9613bfd0d" /><div align="center">
 ---
 
 <div align="center">
