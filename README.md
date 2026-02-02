@@ -1,9 +1,12 @@
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/ai.gif" width="300"/>
 
 # Hi, I'm Emad Amanifar 👋  
 ### AI & Computer Vision Engineer
 
 </div>
+
 ---
 
 <div align="center">
