@@ -23,15 +23,15 @@
 
 ### 🔹 Face Emotion Recognition  
 Deep CNN-based facial emotion classification with full preprocessing & training pipeline  
-🔗 https://github.com/ema-item/face-emotion-recognition
+🔗 https://github.com/EmadAmanifar/face-emotion-recognition
 
 ### 🔹 Iranian Car Classification  
 Image classification system for Iranian car brands and models  
-🔗 https://github.com/ema-item/Iranian-car-classification
+🔗 https://github.com/EmadAmanifar/Iranian-car-classification
 
 ### 🔹 Fashion Search with CLIP  
 Multimodal image–text search engine using CLIP embeddings  
-🔗 https://github.com/ema-item/fashion-search-with-clip
+🔗 https://github.com/EmadAmanifar/fashion-search-with-clip
 
 ---
 
