@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Emad%20Amanifar&fontSize=40&animation=scaleIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20&descAlignY=51&descAlign=62)
+
 <div align="center">
 
 
@@ -5,8 +7,6 @@
 ### AI & Computer Vision Engineer
 
 </div>
-![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Emad%20Amanifar)
-
 
 ---
 
