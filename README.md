@@ -72,8 +72,9 @@ Multimodal image–text search engine using CLIP embeddings
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/thanks.gif" width="200"/>
-</div>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <div align="center">
 
