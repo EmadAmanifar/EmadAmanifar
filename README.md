@@ -1,27 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Emad%20Amanifar&fontSize=40&animation=scaleIn&fontAlignY=38&desc=AI%20Engineer%20&descAlignY=51&descAlign=62)
 
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="500"/>
-</div>
-
 ## 🧠 About Me
 - 🔍 Specialized in **Computer Vision & Deep Learning**
-- 🧪 Hands-on experience building **real AI systems**, not just experiments
+- 🧪 Hands-on experience building **real AI systems**
 - 🧠 Focused on **visual understanding**, multimodal models, and applied ML
-- 🐍 Python-first engineer with strong ML foundations
-
+- 🐍 Python-first engineer with ML foundations
+- 🎯 I am interested in **Car systems engineering** as well as **MLOps** and **CVOps**, and I want to contribute to the advancement of technology by increasing my knowledge, expertise, and experience with interesting ideas
 ---
-<img src="images/vision_eng.jpg"/>
+<div align="center">
+<img src="images/vision_eng.jpg" width="900"/>
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/vision.gif" width="400"/>
-</div>
 
 ### 🔹 Face Emotion Recognition  
 Deep CNN-based facial emotion classification with full preprocessing & training pipeline  
@@ -39,9 +32,6 @@ Multimodal image–text search engine using CLIP embeddings
 
 ## 🛠 Tech Stack
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/tools.gif" width="400"/>
-</div>
 
 **Languages**
 - Python
