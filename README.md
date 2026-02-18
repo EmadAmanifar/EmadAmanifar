@@ -14,7 +14,7 @@
 - 🐍 Python-first engineer with strong ML foundations
 
 ---
-
+<img src="images/vision_eng.jpg"/>
 ---
 
 ## 🚀 Featured Projects
