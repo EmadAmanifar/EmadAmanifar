@@ -7,7 +7,7 @@
 - 🐍 Python-first engineer with ML foundations
 - 🎯 I am interested in **Car systems engineering** as well as **MLOps** and **CVOps**, and I want to contribute to the advancement of technology by increasing my knowledge, expertise, and experience with interesting ideas
 ---
-<div align="center">
+<div align="left">
 <img src="images/vision_eng.jpg" width="900"/>
 </div>
 
