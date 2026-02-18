@@ -51,23 +51,25 @@ Multimodal image–text search engine using CLIP embeddings
 - [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 
 **AI / CV**
+- ![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-123456?style=for-the-badge&logo=keras&logoColor=white) ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-Fine--tuning-123456?style=for-the-badge&logo=tensorflow&logoColor=white)
 - [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
   [![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-- [![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+  [![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 - [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
-- ![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-123456?style=for-the-badge&logo=keras&logoColor=white) ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-Fine--tuning-123456?style=for-the-badge&logo=tensorflow&logoColor=white)
+  
 
 
 
 **Data & ML**
 - [![Pandas](	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-- [![NumPy](	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+  [![NumPy](	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-123456?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
+  [![Matplotlib](https://img.shields.io/badge/Matplotlib-123456?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
 
-**Workflow**
-- Linux
-- Git & GitHub
+
+  
+**Operating Systems**
+- <div align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" width="40"/>  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" width="40"/> </div>
 
 ---
 
