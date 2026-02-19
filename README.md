@@ -55,6 +55,10 @@
 
 
 ### 🔹 Face Emotion Recognition  
+<a href="https://github.com/EmadAmanifar">
+  <img src="images/Image denoising with GAN.png?raw=true" alt="توضیح عکس" width="200">
+</a>
+
 Deep CNN-based facial emotion classification with full preprocessing & training pipeline  
 🔗 https://github.com/EmadAmanifar/face-emotion-recognition
 
