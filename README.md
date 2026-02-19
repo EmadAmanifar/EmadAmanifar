@@ -25,6 +25,7 @@
   [![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
   [![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 - [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
+- [![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://ultralytics.com/)
   
 
 
@@ -43,14 +44,13 @@
 <br><br>
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmadAmanifar&theme=dark&hide_border=true" width="70%" />
-</p>
+<!--## 📊 GitHub Stats -->
+<!-- <p align="center"> -->
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmadAmanifar&theme=dark&hide_border=true" width="70%" /> -->
+<!-- </p> -->
 
-<br><br>
+<!-- <br><br> -->
 
----
 ## 🚀 Featured Projects
 
 
