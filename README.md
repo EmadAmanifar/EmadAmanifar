@@ -94,12 +94,13 @@
     <a href="mailto:emadamanifar@gmail.com"><img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" width="32" height="32"></a>
     <a href="https://t.me/Emad_amani"><img src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram" width="32" height="32"></a>
   </div>
-
-<br>
-<br>
-<br>
-
 </div>
+
+<br>
+<br>
+<br>
+
+
 
 ⭐ *Building AI systems that understand the world, not just datasets.*
 
