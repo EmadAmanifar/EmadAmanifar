@@ -56,22 +56,21 @@
 
 <div align="left">
   <img src="images/GAN.png?raw=true" alt="GAN" width="300">
-  <a href="https://www.kaggle.com/code/emadamani/gan-for-image-generation"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Project In Kaggle"></a>
-<a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a>
 </div>
 <p align="justify">Generative Adversarial Networks (GAN) for image denoising. The model learns to reconstruct clean, high-quality images from noisy inputs. Evaluation is performed using PSNR and SSIM metrics.
 </p>
 
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emadamani/gan-for-image-generation)
+![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)<!--(https://github.com/USERNAME/REPO)-->
 
 ## <br>
 
 <div align="left">
   <img src="images/fsl.png?raw=true" alt="FSL" width="300">
-<p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.
-  <a href="https://www.kaggle.com/code/emadamani/gan-for-image-generation"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Project In Kaggle"></a>
-  <a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a>
-</p>
+<p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
 
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emadamani/fsl-contrastive-score)
+![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)<!--(https://github.com/USERNAME/REPO)-->
 
 ## <br>
 
@@ -80,8 +79,9 @@
 </div>
 <p align="justify">A visual search engine for fashion items using CLIP and FAISS. Upload an image of a clothing item, and the system returns the 4 most similar items from the dataset. The user interface is built with Gradio.</p>
 </div>
-<a href="https://www.kaggle.com/code/emadamani/gan-for-image-generation"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Project In Kaggle"></a>
-<a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a>
+
+![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)<!--(https://github.com/USERNAME/REPO)-->
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)]<!--(https://github.com/USERNAME/REPO)-->
 
 
 <div align="center">
