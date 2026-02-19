@@ -56,26 +56,27 @@
 ### 📸 پروژه اول: تشخیص چهره با FSL
 ## 🚀 My Projects
 
-<div align="right">
-<img src="images/GAN.png?raw=true" alt="GAN" width="300">
+<div align="left">
+  <img src="images/GAN.png?raw=true" alt="GAN" width="300">
 </div>
-<p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
-
+<p align="justify">Generative Adversarial Networks (GAN) for image denoising. The model learns to reconstruct clean, high-quality images from noisy inputs. Evaluation is performed using PSNR and SSIM metrics.
+<a href="https://www.kaggle.com/code/emadamani/gan-for-image-generation"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Project In Kaggle"></a>
+<a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a></p>
 
 ## <br>
 
 <div align="right">
 <img src="images/fsl.png?raw=true" alt="FSL" width="300">
-<p align="justify">A visual search engine for fashion items using CLIP and FAISS. Upload an image of a clothing item, and the system returns the 4 most similar items from the dataset. The user interface is built with Gradio.</p>
-</div>
+<p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
 
 
 ## <br>
 
-<div align="right">
+<div align="left">
 <img src="images/clip.png?raw=true" alt="CLIP" width="300">
 </div>
-<p align="justify">Generative Adversarial Networks (GAN) for image denoising. The model learns to reconstruct clean, high-quality images from noisy inputs. Evaluation is performed using PSNR and SSIM metrics.</p>
+<p align="justify">A visual search engine for fashion items using CLIP and FAISS. Upload an image of a clothing item, and the system returns the 4 most similar items from the dataset. The user interface is built with Gradio.</p>
+</div>
 
 
 
