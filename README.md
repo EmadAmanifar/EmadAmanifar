@@ -56,18 +56,21 @@
 
 <div align="left">
   <img src="images/GAN.png?raw=true" alt="GAN" width="300">
+  <a href="https://www.kaggle.com/code/emadamani/gan-for-image-generation"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Project In Kaggle"></a>
+<a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a>
 </div>
 <p align="justify">Generative Adversarial Networks (GAN) for image denoising. The model learns to reconstruct clean, high-quality images from noisy inputs. Evaluation is performed using PSNR and SSIM metrics.
-<a href="https://www.kaggle.com/code/emadamani/gan-for-image-generation"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Project In Kaggle"></a>
-<a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a></p>
+</p>
+
 
 ## <br>
 
-<div align="right">
+<div align="left">
   <img src="images/fsl.png?raw=true" alt="FSL" width="300">
+<p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.
   <a href="https://www.kaggle.com/code/emadamani/gan-for-image-generation"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Project In Kaggle"></a>
   <a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a>
-<p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
+</p>
 
 
 ## <br>
