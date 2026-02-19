@@ -56,7 +56,7 @@
 ### 📸 پروژه اول: تشخیص چهره با FSL
 ## 🚀 My Projects
 
-<div align="left">
+<div align="right">
 <img src="images/GAN.png?raw=true" alt="GAN" width="300">
 </div>
 <p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
@@ -64,7 +64,7 @@
 
 ## <br>
 
-<div align="left">
+<div align="right">
 <img src="images/fsl.png?raw=true" alt="FSL" width="300">
 <p align="justify">A visual search engine for fashion items using CLIP and FAISS. Upload an image of a clothing item, and the system returns the 4 most similar items from the dataset. The user interface is built with Gradio.</p>
 </div>
@@ -72,7 +72,7 @@
 
 ## <br>
 
-<div align="left">
+<div align="right">
 <img src="images/clip.png?raw=true" alt="CLIP" width="300">
 </div>
 <p align="justify">Generative Adversarial Networks (GAN) for image denoising. The model learns to reconstruct clean, high-quality images from noisy inputs. Evaluation is performed using PSNR and SSIM metrics.</p>
