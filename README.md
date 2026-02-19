@@ -51,7 +51,7 @@
 
 <!-- <br><br> -->
 
-## 🚀 Featured Projects
+## 🚀 Last 3 Projects
 
 
 <div align="left">
@@ -81,8 +81,11 @@
 </div>
 
 ![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)<!--(https://github.com/USERNAME/REPO)-->
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)]<!--(https://github.com/USERNAME/REPO)-->
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/EmadAmanifar/fashion-search-with-clip)
 
+---
+
+## 📫Connect
 
 <div align="center">
   <div style="display: flex; align-items: center; gap: 15px; justify-content: center; padding: 5px;">
@@ -91,6 +94,11 @@
     <a href="mailto:emadamanifar@gmail.com"><img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" width="32" height="32"></a>
     <a href="https://t.me/Emad_amani"><img src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram" width="32" height="32"></a>
   </div>
+
+<br>
+<br>
+<br>
+
 </div>
 
 ⭐ *Building AI systems that understand the world, not just datasets.*
