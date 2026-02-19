@@ -67,18 +67,14 @@ Multimodal image–text search engine using CLIP embeddings
 🔗 https://github.com/EmadAmanifar/fashion-search-with-clip
 
 ---
-
-<div>
-    <a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a>
-    <a href="https://clickpy.clickhouse.com/dashboard/ultralytics"><img src="https://static.pepy.tech/badge/ultralytics" alt="Ultralytics Downloads"></a>
-    <a href="https://discord.com/invite/ultralytics"><img alt="Ultralytics Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a>
-    <a href="https://community.ultralytics.com/"><img alt="Ultralytics Forums" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue"></a>
-    <a href="https://www.reddit.com/r/ultralytics/"><img alt="Ultralytics Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue"></a>
-    <br>
-    <a href="https://console.paperspace.com/github/ultralytics/ultralytics"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run Ultralytics on Gradient"></a>
-    <a href="https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Ultralytics In Colab"></a>
-    <a href="https://www.kaggle.com/models/ultralytics/yolo26"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Ultralytics In Kaggle"></a>
-    <a href="https://mybinder.org/v2/gh/ultralytics/ultralytics/HEAD?labpath=examples%2Ftutorial.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open Ultralytics In Binder"></a>
+<div align="center">
+  <div style="display: flex; align-items: center; gap: 15px; justify-content: center; padding: 10px;">
+    <a href="https://www.kaggle.com/emadamani"><img src="https://www.svgrepo.com/show/349422/kaggle.svg" alt="Kaggle" width="32" height="32"></a>
+    <a href="https://www.linkedin.com/in/emadamani/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>
+    <div style="width: 2px; height: 32px; background-color: #888; margin: 0 5px;"></div>
+    <a href="mailto:emadamanifar@gmail.com"><img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" width="32" height="32"></a>
+    <a href="https://t.me/Emad_amani"><img src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram" width="32" height="32"></a>
+  </div>
 </div>
 
 
