@@ -71,7 +71,6 @@ Multimodal image–text search engine using CLIP embeddings
   <div style="display: flex; align-items: center; gap: 15px; justify-content: center; padding: 5px;">
     <a href="https://www.kaggle.com/emadamani"><img src="https://www.svgrepo.com/show/349422/kaggle.svg" alt="Kaggle" width="32" height="32"></a>
     <a href="https://www.linkedin.com/in/emadamani/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>
-    <div style="width: 2px; height: 35px; background-color: #555; margin: 0 5px;"></div>
     <a href="mailto:emadamanifar@gmail.com"><img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" width="32" height="32"></a>
     <a href="https://t.me/Emad_amani"><img src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram" width="32" height="32"></a>
   </div>
