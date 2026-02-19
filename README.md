@@ -53,8 +53,6 @@
 
 ## 🚀 Featured Projects
 
-### 📸 پروژه اول: تشخیص چهره با FSL
-## 🚀 My Projects
 
 <div align="left">
   <img src="images/GAN.png?raw=true" alt="GAN" width="300">
@@ -66,7 +64,9 @@
 ## <br>
 
 <div align="right">
-<img src="images/fsl.png?raw=true" alt="FSL" width="300">
+  <img src="images/fsl.png?raw=true" alt="FSL" width="300">
+  <a href="https://www.kaggle.com/code/emadamani/gan-for-image-generation"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Project In Kaggle"></a>
+  <a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a>
 <p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
 
 
@@ -77,7 +77,8 @@
 </div>
 <p align="justify">A visual search engine for fashion items using CLIP and FAISS. Upload an image of a clothing item, and the system returns the 4 most similar items from the dataset. The user interface is built with Gradio.</p>
 </div>
-
+<a href="https://www.kaggle.com/code/emadamani/gan-for-image-generation"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open Project In Kaggle"></a>
+<a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml/badge.svg" alt="Ultralytics CI"></a>
 
 
 <div align="center">
