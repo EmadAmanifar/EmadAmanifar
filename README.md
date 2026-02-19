@@ -64,7 +64,7 @@
 
 ## <br>
 
-<div align="right">
+<div align="left">
 <img src="images/fsl.png?raw=true" alt="FSL" width="300">
 <p align="justify">A visual search engine for fashion items using CLIP and FAISS. Upload an image of a clothing item, and the system returns the 4 most similar items from the dataset. The user interface is built with Gradio.</p>
 </div>
