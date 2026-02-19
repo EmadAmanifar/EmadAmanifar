@@ -53,24 +53,32 @@
 
 ## 🚀 Featured Projects
 
+### 📸 پروژه اول: تشخیص چهره با FSL
+## 🚀 My Projects
 
-### 🔹 Face Emotion Recognition  
-<a href="https://github.com/EmadAmanifar">
-  <img src="images/GAN.png?raw=true" alt="GAN" width="200">
-</a>
+<div align="left">
+<img src="images/GAN.png?raw=true" alt="GAN" width="300">
+</div>
+<p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
 
-Deep CNN-based facial emotion classification with full preprocessing & training pipeline  
-🔗 https://github.com/EmadAmanifar/face-emotion-recognition
 
-### 🔹 Iranian Car Classification  
-Image classification system for Iranian car brands and models  
-🔗 https://github.com/EmadAmanifar/Iranian-car-classification
+## <br>
 
-### 🔹 Fashion Search with CLIP  
-Multimodal image–text search engine using CLIP embeddings  
-🔗 https://github.com/EmadAmanifar/fashion-search-with-clip
+<div align="right">
+<img src="images/fsl.png?raw=true" alt="FSL" width="300">
+<p align="justify">A visual search engine for fashion items using CLIP and FAISS. Upload an image of a clothing item, and the system returns the 4 most similar items from the dataset. The user interface is built with Gradio.</p>
+</div>
 
----
+
+## <br>
+
+<div align="left">
+<img src="images/clip.png?raw=true" alt="CLIP" width="300">
+</div>
+<p align="justify">Generative Adversarial Networks (GAN) for image denoising. The model learns to reconstruct clean, high-quality images from noisy inputs. Evaluation is performed using PSNR and SSIM metrics.</p>
+
+
+
 <div align="center">
   <div style="display: flex; align-items: center; gap: 15px; justify-content: center; padding: 5px;">
     <a href="https://www.kaggle.com/emadamani"><img src="https://www.svgrepo.com/show/349422/kaggle.svg" alt="Kaggle" width="32" height="32"></a>
