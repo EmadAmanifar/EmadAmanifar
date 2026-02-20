@@ -67,7 +67,7 @@
 
 <div align="left">
   <img src="images/fsl.png?raw=true" alt="FSL" width="300">
-<p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
+<p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss and contrastive loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
 
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emadamani/fsl-contrastive-score)
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emadamani/fsl-triplet-score)
