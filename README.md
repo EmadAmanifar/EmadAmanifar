@@ -61,7 +61,7 @@
 </p>
 
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emadamani/gan-for-image-generation)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](image-denoising-gan.ipynb/image-denoising-gan.ipynb)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/EmadAmanifar/image-denoising-gan/blob/main/image-denoising-gan.ipynb)
 
 ## <br>
 
