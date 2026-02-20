@@ -60,7 +60,7 @@
 <p align="justify">Generative Adversarial Networks (GAN) for image denoising. The model learns to reconstruct clean, high-quality images from noisy inputs. Evaluation is performed using PSNR and SSIM metrics.
 </p>
 
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emadamani/gan-for-image-generation)
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emadamani/image-denoising-gan)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/EmadAmanifar/image-denoising-gan/blob/main/image-denoising-gan.ipynb)
 
 ## <br>
@@ -70,7 +70,8 @@
 <p align="justify">Face recognition using Few-Shot Learning. This project is built with Siamese Network architecture and triplet loss, capable of learning from less than 5 samples. It uses CLIP for feature extraction and Gradio for the user interface.</p>
 
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emadamani/fsl-contrastive-score)
-![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)<!--(https://github.com/USERNAME/REPO)-->
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emadamani/fsl-triplet-score)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/EmadAmanifar/FSL-face-recursion)
 
 ## <br>
 
@@ -80,7 +81,6 @@
 <p align="justify">A visual search engine for fashion items using CLIP and FAISS. Upload an image of a clothing item, and the system returns the 4 most similar items from the dataset. The user interface is built with Gradio.</p>
 </div>
 
-![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)<!--(https://github.com/USERNAME/REPO)-->
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/EmadAmanifar/fashion-search-with-clip)
 
 ---
